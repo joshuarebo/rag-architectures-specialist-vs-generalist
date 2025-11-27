@@ -1,0 +1,76 @@
+# Environment and Credentials
+.env
+*.env
+**/*credentials*
+**/*key*
+**/*secret*
+
+# AWS Credentials (DO NOT COMMIT)
+**/AWS_*
+**/*AWS*
+
+# Large PDF files
+*.pdf
+legal_pdfs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# ChromaDB
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+execution.log
+
+# Large data files
+thesis_results_final.csv
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Scripts used for setup (not needed in repo)
+prepare_and_push_github.ps1

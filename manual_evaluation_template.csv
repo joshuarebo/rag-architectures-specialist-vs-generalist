@@ -1,0 +1,192 @@
+Question_ID,Question,Ground_Truth,SAC_RAG_Answer,Generic_Claude_Answer,Score_SAC_Accuracy,Score_SAC_Completeness,Score_SAC_Clarity,Score_Generic_Accuracy,Score_Generic_Completeness,Score_Generic_Clarity,Winner,Notes
+Q1,Summarize the Supreme Court's holding in Torino Enterprises Ltd v Attorney General [2023] regarding the 90 acres of land occupied by the Department of Defence.,Expert question (no ground truth),"# Supreme Court Holding in Torino Enterprises Ltd v Attorney General [2023]
+
+## Core Holdings:
+
+### 1. **Allotment Letters Do Not Confer Transferable Title**
+The Supreme Court held that an allotment letter alone cannot confer transferable title to land. Registration is required to perfect title and make it transferable.
+
+### 2. **Torino Enterprises Was Not an Innocent Purchaser for Value**
+The Court found that Torino Enterprises (the appellant) failed to qualify as an innocent purchaser for value because it did not conduct a physical inspection of the property. Had it done so, it would have discovered that the land was already occupied by the Department of Defence with military installations, making the transaction void.
+
+### 3. **Loss of Commissioner's Authority Over Alienated Land**
+Once government land is alienated and registered as private freehold land, the Commissioner of Lands loses authority to reallocate it. The land exits the Commissioner's regulatory authority upon private registration.
+
+### 4. **Public Interest Consideration**
+The Court considered that the uninterrupted occupation of the land by the Department of Defence and the erection of military installations thereon created a public interest that overrides private interests.
+
+### 5. **Constitutional Compliance**
+The Court found that the title purportedly acquired by Torino Enterprises contravened **Article 40(6) of the Constitution**.
+
+## Outcome:
+The Supreme Court ruled against Torino Enterprises, effectively protecting the Department of Defence's occupation of the 90 acres of land.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q2,"Under Section 29 of the Law of Succession Act (Cap 160), if a deceased dies intestate leaving a widow and children, what exact interest does the widow acquire in the net intestate estate?",Expert question (no ground truth),"Based on the provided context, I cannot provide the **exact** answer to your question about Section 29 specifically, as Section 29 is not included in the chunks provided.
+
+However, the context does contain related provisions that address intestate succession where a widow and children survive:
+
+**From Section 35** (referenced in the chunks):
+- A surviving spouse is entitled to a **life interest** in the net intestate estate when there are surviving children
+- The provision states: ""A surviving spouse entitled to a life interest under the provisions of section 35 or 36...""
+
+**From Section 35(5)** (partially quoted):
+""Subject to the provisions of sections 41 and 42 and subject to any appointment or award made under this section, the whole residue of the net intestate estate shall on the death, or, in the case of a widow, re-marriage, of the surviving spouse, devolve upon the surviving child, if there be only one, or be equally divided among the surviving children.""
+
+This indicates that:
+1. The widow receives a **life interest** (not absolute ownership)
+2. Upon her death or remarriage, the estate devolves to the children
+
+**Note:** To provide the precise answer regarding Section 29, I would need access to that specific section, which is not included in the provided context. Section 29 may contain the detailed provisions on the widow's exact entitlements.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q3,"List the specific P&A forms required to file for a grant of letters of administration intestate where the estate value exceeds Kshs 300,000.",Expert question (no ground truth),"Based on the provided context from the Probate and Administration Rules (Legal Notice 104 of 1980), I can identify the following relevant forms for letters of administration intestate:
+
+## Identified Forms:
+
+1. **Form 41** - Grant of Letters of Administration Intestate (referenced under Rule 25)
+
+2. **Form 95** - Petition for Letters of Administration Intestate by Attorney of Person Primarily Entitled to Apply, Such Person Being Absent from Kenya (referenced under 5th Schedule, rules 1 and 12)
+
+3. **Form 86** - Petition for Letters of Administration Intestate of Assets Unadministered (de bonis non) (referenced under 5th Schedule, rules 16, 7 and 12)
+
+## Important Limitation:
+
+The context provided does **not contain complete information** about:
+- The standard petition form for ordinary letters of administration intestate
+- Supporting affidavit forms required under Rules 7(1) and 12
+- Other ancillary forms that may be required for estates exceeding Kshs 300,000
+
+The context mentions that applications require ""comprehensive affidavits detailing deceased's assets/liabilities, beneficiaries' particulars, and proof of death"" and references to Rules 7(1) and 12, but the specific form numbers for these standard applications are not fully detailed in the excerpts provided.
+
+**Note:** For a complete list of required forms for estates exceeding Kshs 300,000, you would need to consult the full Probate and Administration Rules, particularly the Fifth Schedule and forms section.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q4,"Based on the Sirikwa Squatters case (SC Petition E036 of 2022), does the President of Kenya have the legal authority to allocate private land to squatters? Cite the reasoning.",Expert question (no ground truth),"# Presidential Authority to Allocate Private Land to Squatters
+
+## Answer: No
+
+Based on the **Fanikiwa Ltd v. Sirikwa Squatters Group** case, the President of Kenya does **not** have legal authority to allocate private land to squatters.
+
+## Legal Reasoning:
+
+### 1. **Limitation to Public Land Only**
+
+The Court held that presidential promises and government correspondence to allocate land to squatters were **""illegal, ineffectual, null and void""** when made in respect of **private properties**. 
+
+The context makes clear that such allocation powers apply only to:
+- **Unalienated Government land** 
+- Land amenable to allocation under the applicable statutes (Registration of Titles Act and related legislation)
+
+### 2. **Protection of Private Property Rights**
+
+The case addressed the conflict between:
+- Constitutional protection of **private property rights based on registered title** (held by Fanikiwa Ltd and other registered proprietors)
+- Government promises to settle squatters
+
+The Court affirmed that registered private property enjoys constitutional protection that cannot be overridden by executive promises or endorsements.
+
+### 3. **The Critical Distinction**
+
+The Sirikwa group's counter-argument was that the land **had been surrendered to Government by Lonrho Agribusiness**, thereby converting it to **public land** capable of allocation. This distinction was central to the case—allocation powers exist only over public land, not private property with registered titles.
+
+## Conclusion:
+
+Presidential or government authority to allocate land to squatters is **limited to public/government land only** and does not extend to private property held under registered title.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q5,"In Republic v Kenya Revenue Authority ex parte Vipees, what was the court's ruling regarding the Commissioner's power to reclassify goods under the HS Code?",Expert question (no ground truth),"Based on the provided context, the court's ruling regarding the Commissioner's power to reclassify goods under the HS Code was as follows:
+
+## High Court's Position
+
+The High Court **upheld the respondent's (KRA's) jurisdiction and power to reclassify goods**. Specifically:
+
+1. **Jurisdiction Affirmed**: The trial judge concluded that ""the respondent had jurisdiction under section 131 of the Act to issue agency notice,"" which was issued following the reclassification.
+
+2. **Matter of Merits, Not Process**: The court held that the appellant's challenge to the tariff reclassification (from HS code 3004.90.00 to 2106.90.90) concerned **the merits of the decision rather than the decision-making process**, making judicial review inappropriate. The judge stated:
+
+   > ""It is quite clear that the applicant is contesting the merits of the respondent's decision. The matter before me is a judicial review application which is concerned with the decision making process and not the merits of the decision.""
+
+3. **Proper Classification Process**: The court implicitly accepted that KRA followed proper procedure by:
+   - Obtaining samples from the appellant
+   - Forwarding them to the Custom's Laboratory for analysis
+   - Receiving a laboratory report (dated 21st April 2006) prepared by a chemist
+   - Reclassifying products based on the laboratory analysis
+
+The High Court **dismissed both judicial review applications**, effectively recognizing KRA's authority to reclassify goods under sections 131 and 135 of the East African Community Customs Management Act.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q6,Explain the concept of 'House without Land' as established in I.N.K. v P.N.K. and its implication for matrimonial property division.,Expert question (no ground truth),"Based on the provided context, I cannot find any reference to the concept of ""House without Land"" or the case **I.N.K. v P.N.K.** in the documents available.
+
+The context provided includes:
+1. Provisions from the **Matrimonial Property Act** defining matrimonial property and ownership rights
+2. A case involving parties **P N N v Z W N** (not I.N.K. v P.N.K.), which addressed constitutional equality principles and overruled the *Echaria* precedent
+
+The available materials discuss:
+- **Section 6 of the Matrimonial Property Act**, which defines matrimonial property as including ""the matrimonial home or homes"" and ""any other immovable and movable property jointly owned and acquired during the subsistence of the marriage""
+- The principle that both **monetary and non-monetary contributions** must be considered in dividing matrimonial property
+- **Article 45(3) of the Constitution**, guaranteeing equal rights to spouses
+
+However, there is **no specific discussion of a ""House without Land"" doctrine** or the case you've referenced in the context provided.
+
+To properly answer your question, I would need access to the **I.N.K. v P.N.K.** judgment or other materials that specifically address this concept.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q7,Find a Kenyan precedent where the Employment and Labour Relations Court (ELRC) denied a claim for unfair termination specifically because the employee failed to attend the disciplinary hearing.,Expert question (no ground truth),"Based on the provided context, I cannot identify a Kenyan precedent where the Employment and Labour Relations Court (ELRC) denied a claim for unfair termination specifically because the employee failed to attend a disciplinary hearing.
+
+The context provided relates to a different legal issue: **limitation periods and whether courts can grant leave to file employment claims out of time**. The case discussed involves:
+
+- An applicant whose claim was dismissed for being filed beyond the three-year limitation period under Section 90 of the Employment Act, 2007
+- The court's holding that conciliation processes do not suspend statutory time limits
+- Citations to cases like *Beatrice Kahai Adagala v Postal Corporation of Kenya*, *Divecon Ltd v Samani*, and *Rift Valley Railways (Kenya) Ltd v Hawkins Wagunza Musonye*
+
+None of these materials address the substantive issue of unfair termination based on an employee's failure to attend a disciplinary hearing.
+
+**To answer your question, I would need access to case law specifically dealing with procedural fairness in disciplinary proceedings and employee participation in hearings.**",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q8,Does Article 40(3) of the Constitution protect a title deed obtained fraudulently? Cite the Dina Management principle.,Expert question (no ground truth),"Based on the provided context, **Article 40(6) of the Constitution does NOT protect a title deed obtained fraudulently.**
+
+## Legal Framework
+
+According to **Section 26 of the Land Registration Act No. 3 of 2012**, a title can be challenged on the ground of **fraud or misrepresentation**, provided that it is proved that the proprietor:
+1. Was a party to such fraud, OR
+2. Had acquired the property illegally, OR  
+3. Acquired it through a corrupt scheme
+
+## Key Principle from the Context
+
+The context explicitly states:
+
+> ""That protection, however, **does not extend to a purchaser who has failed to conduct due diligence or has been complicit in the misrepresentation, mistake, fraud or illegality** that is said to vitiate the title.""
+
+## Constitutional Requirement
+
+**Article 40(6) of the Constitution** requires that where allegations of illegality or irregularity are made, **a formal process of proof must be undertaken** by the party alleging fraud. This means the constitutional protection of property rights is not absolute—it can be challenged through proper legal process when fraud is established.
+
+---
+
+**Note:** The specific ""Dina Management principle"" you referenced is not contained in the provided context documents, so I cannot cite or elaborate on that particular principle based on the available materials.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q9,What is the limitation period for filing a claim in tort against the Government of Kenya under the Public Authorities Limitation Act?,Expert question (no ground truth),"Based on the Public Authorities Limitation Act, the limitation period for filing a claim in tort against the Government of Kenya is **12 months from the date on which the cause of action accrued**.
+
+This is specifically provided in the Act, which states:
+
+> ""No proceedings founded on tort shall be brought against the Government or a local authority after the end of twelve months from the date on which the cause of action accrued.""
+
+**Exception for Persons Under Disability:**
+
+However, if the person to whom the right of action accrues is under a disability at the date when the cause of action accrues, the action may be brought within **12 months from the date when that person ceases to be under a disability**.
+
+For purposes of the Act, a person is under a disability while they are:
+- A minor (under 18 years)
+- Of unsound mind, or
+- Detained pursuant to any written law authorizing detention of persons suffering from mental disorder or unsoundness of mind
+
+**Important Note:** This proviso does not apply where the right of action first accrues to a person who is not under a disability and through whom the person under disability claims.
+
+This 12-month limitation period for tort claims is significantly shorter than standard limitation periods and is designed to protect public authorities from stale claims.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,
+Q10,"If a man dies intestate in Kenya, and his only surviving relative is a step-mother, does she inherit under Part V of the Law of Succession Act?",Expert question (no ground truth),"Based on the Law of Succession Act provisions provided, **a step-mother would NOT inherit** under Part V (intestate succession).
+
+## Legal Basis:
+
+**Section 39** governs situations ""Where intestate has left no surviving spouse or children"" and establishes a specific order of priority for the ""**kindred of the intestate**.""
+
+## Key Analysis:
+
+1. **Definition of ""kindred""**: The Act uses the term ""kindred"" to refer to blood relatives of the deceased. A step-mother is related by marriage (affinity), not by blood (consanguinity).
+
+2. **Exhaustion of priority classes**: Section 39(2) states that if none of the persons mentioned in paragraphs (a) to (e) of subsection (1) survive, ""the net intestate estate shall devolve upon the **State**, and be paid into the Consolidated Fund.""
+
+3. **No provision for step-relations**: The context provided does not include step-parents or step-relations in the categories of persons entitled to inherit under intestate succession.
+
+## Conclusion:
+
+Under Part V of the Law of Succession Act, only the deceased's **kindred** (blood relatives) in the specified order of priority can inherit. A step-mother, being related by marriage rather than blood, does not fall within any of the enumerated classes of beneficiaries. If she is the only surviving relative, the estate would ultimately devolve to the State under Section 39(2).
+
+**Note**: The complete list of priority classes in Section 39(1)(a)-(e) is not fully provided in the context, but the principle is clear that step-relations are not included.",[TO BE FILLED FROM CLAUDE.AI],,,,,,,,

@@ -1,0 +1,5 @@
+Metric,Base RAG,SAC-RAG,Improvement (%)
+Accuracy (/10),8.7,7.9,-9.2
+Completeness (/10),7.6,6.5,-14.47
+Clarity (/10),9.4,8.5,-9.57
+Overall Average (/10),8.566666666666666,7.633333333333333,-10.89

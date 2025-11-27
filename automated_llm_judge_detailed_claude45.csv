@@ -1,0 +1,11 @@
+Question_ID,Question,SAC_RAG_Score,Generic_Claude_Score,Winner
+Q1,Summarize the Supreme Court's holding in Torino Enterprises Ltd v Attorney General [2023] regarding the 90 acres of land occupied by the Department of Defence.,4,5,Generic Claude
+Q2,"Under Section 29 of the Law of Succession Act (Cap 160), if a deceased dies intestate leaving a widow and children, what exact interest does the widow acquire in the net intestate estate?",4,4,Tie
+Q3,"List the specific P&A forms required to file for a grant of letters of administration intestate where the estate value exceeds Kshs 300,000.",3,4,Generic Claude
+Q4,"Based on the Sirikwa Squatters case (SC Petition E036 of 2022), does the President of Kenya have the legal authority to allocate private land to squatters? Cite the reasoning.",4,5,Generic Claude
+Q5,"In Republic v Kenya Revenue Authority ex parte Vipees, what was the court's ruling regarding the Commissioner's power to reclassify goods under the HS Code?",4,5,Generic Claude
+Q6,Explain the concept of 'House without Land' as established in I.N.K. v P.N.K. and its implication for matrimonial property division.,4,4,Tie
+Q7,Find a Kenyan precedent where the Employment and Labour Relations Court (ELRC) denied a claim for unfair termination specifically because the employee failed to attend the disciplinary hearing.,5,4,SAC-RAG
+Q8,Does Article 40(3) of the Constitution protect a title deed obtained fraudulently? Cite the Dina Management principle.,4,5,Generic Claude
+Q9,What is the limitation period for filing a claim in tort against the Government of Kenya under the Public Authorities Limitation Act?,5,5,Tie
+Q10,"If a man dies intestate in Kenya, and his only surviving relative is a step-mother, does she inherit under Part V of the Law of Succession Act?",4,5,Generic Claude
