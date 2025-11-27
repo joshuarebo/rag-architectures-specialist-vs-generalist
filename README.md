@@ -74,7 +74,7 @@ No Retrieval → Direct LLM Inference (Claude 4.0/4.5 via claude.ai)
 ## Experimental Setup
 
 ### Dataset
-- **Corpus:** 11 Kenyan statutes + 48 court judgments (59 PDFs total)
+- **Corpus:** 10 Kenyan statutes + 50 court judgments (60 PDFs total)
 - **Key Documents:** Constitution of Kenya 2010, Law of Succession Act, Land Registration Act, Finance Act 2023, Supreme Court precedents
 - **Evaluation Set:** 10 expert-curated Golden Questions spanning constitutional law, succession, land law, taxation, employment
 
