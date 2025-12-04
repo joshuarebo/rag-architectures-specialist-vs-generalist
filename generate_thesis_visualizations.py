@@ -119,11 +119,13 @@ for i, (bar1, bar2) in enumerate(zip(bars1, bars2)):
             f'{height2:.2f}',
             ha='center', va='bottom', fontweight='bold')
 
-# Add improvement annotation
-ax.annotate('', xy=(0.15, 4.70), xytext=(0.15, 3.60),
+# Add improvement annotation (connects SAC-RAG blue bars: 3.5 → 4.5)
+# Arrow from Claude 3.5 SAC-RAG (x=0-width/2, y=3.60) to Claude 4.5 SAC-RAG (x=1-width/2, y=4.70)
+ax.annotate('', xy=(1 - width/2, 4.70), xytext=(0 - width/2, 3.60),
             arrowprops=dict(arrowstyle='->', color='green', lw=2.5))
-ax.text(0.4, 4.15, '+30.6%\nimprovement', fontsize=11, 
-        color='green', fontweight='bold', ha='left')
+ax.text(0.5, 4.3, '+30.6%\nModel Upgrade', fontsize=11, 
+        color='green', fontweight='bold', ha='center',
+        bbox=dict(boxstyle='round,pad=0.5', facecolor='white', edgecolor='green', alpha=0.8))
 
 plt.tight_layout()
 plt.savefig(output_dir / '02_ablation_study.png', dpi=300, bbox_inches='tight')
